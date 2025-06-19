@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, ben Mustafa 👋
 
-<!--
-**mustifbk/mustifbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir Front-End geliştiricisiyim. HTML, CSS, JavaScript ve ReactJS ile modern, kullanıcı dostu web uygulamaları geliştiriyorum. jQuery gibi klasik yapıları da aktif olarak kullanıyorum. Şu an Web Tasarımı ve Kodlama bölümünde eğitimime devam ediyorum.
 
-Here are some ideas to get you started:
+## 🚀 Kullandığım Teknolojiler:
+- HTML5, CSS3, Sass
+- JavaScript, jQuery
+- ReactJS (Fonksiyon tabanlı)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projeler:
+Portfolyo sitem ve bazı uygulamalarım yakında burada olacak 👇
+
+## 📫 Bana ulaşın:
+- E-posta: musti_591@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/mustafasalihoglu/
