@@ -1,16 +1,34 @@
-# Merhaba, ben Mustafa 👋
+# 👋 Merhaba, ben Mustafa
 
-Ben bir Front-End geliştiricisiyim. HTML, CSS, JavaScript ve ReactJS ile modern, kullanıcı dostu web uygulamaları geliştiriyorum. jQuery gibi klasik yapıları da aktif olarak kullanıyorum. Şu an Web Tasarımı ve Kodlama bölümünde eğitimime devam ediyorum.
+Front-End geliştiricisiyim. Modern ve kullanıcı dostu arayüzler geliştiriyorum. HTML, CSS, JavaScript ve ReactJS konusunda deneyimliyim. Ayrıca jQuery gibi klasik yapıları da aktif olarak kullanıyorum.
 
-## 🚀 Kullandığım Teknolojiler:
-- HTML5, CSS3, Sass
-- JavaScript, jQuery
-- ReactJS (Fonksiyon tabanlı)
-- Git & GitHub
+Şu an Web Tasarımı ve Kodlama bölümünde eğitimime devam ediyorum. Gerçek dünya projeleriyle sürekli kendimi geliştiriyorum.
 
-## 📂 Projeler:
-Portfolyo sitem ve bazı uygulamalarım yakında burada olacak 👇
+---
 
-## 📫 Bana ulaşın:
-- E-posta: musti_591@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/mustafasalihoglu/
+## 🚀 Kullandığım Teknolojiler
+
+- 💻 HTML5, CSS3, Sass
+- ⚙️ JavaScript (ES6+), jQuery
+- ⚛️ ReactJS (Fonksiyonel Bileşenler, Hook’lar)
+- 🛠️ Git & GitHub
+- 🎨 Responsive Tasarım, Mobil Uyumluluk
+
+---
+
+## 📂 Projelerim
+
+> Aşağıdaki projeler yakında erişime açılacak.  
+> Her proje için ayrı bir GitHub reposu ve canlı demo bağlantısı eklenecek.
+
+- [ ] Kişisel Portföy Sitesi (HTML/CSS)
+- [ ] İşletme Tanıtım Sitesi (Mobil Uyumlu)
+- [ ] React To-Do Uygulaması
+
+---
+
+## 📫 Bana Ulaşın
+
+- 📧 E-posta: musti_591@hotmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/mustafasalihoglu](https://www.linkedin.com/in/mustafasalihoglu/)
+- 🌐 Kişisel Web Sitem: [yakında...](https://mswebworks.github.io)
